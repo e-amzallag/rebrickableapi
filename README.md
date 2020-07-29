@@ -1,5 +1,7 @@
 # Java Rebrickable API
 
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/org.dajlab/rebrickableapi/badge.svg)](https://maven-badges.herokuapp.com/maven-central/org.dajlab/rebrickableapi)
+
 Java API for Rebrickable API v3.
 
 See https://rebrickable.com/api/v3/docs/ for more information about the official Rebrickable API.
